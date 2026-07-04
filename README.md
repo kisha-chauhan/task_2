@@ -6,6 +6,8 @@ This project demonstrates a basic Machine Learning classification model using th
 
 The project is beginner-friendly and helps understand the complete Machine Learning workflow, including data loading, preprocessing, model training, prediction, evaluation, and visualization.
 
+
+
 🎯 Project Objectives
 Load and analyze the Iris dataset.
 Split the dataset into training and testing sets.
@@ -14,11 +16,14 @@ Predict flower species.
 Evaluate the model using accuracy.
 Visualize the classification accuracy using Matplotlib.
 
+
+
 🛠️ Technologies Used
 Python
 Pandas
 Scikit-learn
 Matplotlib
+
 
 
 📈 Machine Learning Algorithm
